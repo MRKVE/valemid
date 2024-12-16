@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Valemi otsing</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #333; }
+        .result { margin-top: 20px; }
+        .formula { font-size: 1.2em; font-weight: bold; }
+        .explanation { margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Valemi otsing</h1>
+    
+    <!-- Otsingu koht -->
+    <form method="get" action="/search">
+        <label for="category">Katekooria:</label>
+        <select name="category" id="category">
+            <option value="math">Matemaatika</option>
+            <option value="chemistry">Keemia</option>
+            <option value="physics">Füüsika</option>
+        </select><br><br>
+        
+        <label for="query">Otsi valemit:</label>
+        <input type="text" id="query" name="query" value="{{ query }}" required><br><br>
+        
+        <button type="submit">Otsi</button>
+    </form>
+
+    {% if results %}
+        <div class="result">
+            <h2>Tulemus:</h2>
+            <ul>
+                {% for result in results %}
+                    <li>
+                        <div class="formula">{{ result.name }}</div>
+                        <div class="formula">Valem: {{ result.formula }}</div>
+                        <div class="explanation">{{ result.explanation }}</div>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% elif query %}
+        <p>Ei leidnud vasteid otsingule: "{{ query }}".</p>
+    {% endif %}
+</body>
+</html>

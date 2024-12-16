@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Newtoni teine seadus",
+        "formula": "F = ma",
+        "explanation": "Jõud võrdub keha ja massi ja selle jõu poolt antud kiirenduse a korrutisega."
+    },
+    {
+        "name": "Oomi seadus",
+        "formula": "U = IR",
+        "explanation": "Määrab kindlaks pinge U, voolutugevuse I ja takistuse R vahelise seose."
+    },
+
+    {
+        "name": "Ohmi seadus",
+        "formula": "U = IR",
+        "explanation": "Määrab kindlaks pinge U, voolutugevuse I ja takistuse R vahelise seose."
+    },
+
+    {
+        "name": "Newtoni kolmas seadus",
+        "formula": "F₁ = -F₂",
+        "explanation": "Kaks keha mõjutavad teineteist jõududega, mis on absoluutväärtuselt võrdsed ja vastassuunalised"
+    },
+
+    {
+        "name": "Elektriline pinge",
+        "formula": "U = A / q",
+        "explanation": "Elektrivälja töö A ja laengu q jagatis võrdub pingega"
+    },
+
+    {
+        "name": "Kiirus",
+        "formula": "v = s / t",
+        "explanation": "Kiirus(tähis v) võrdub teepikkuse(tähis s) ja aja(tähis t) jagatisega"
+    },
+
+    {
+        "name": "Soojushulk",
+        "formula": "Q = cmΔT",
+        "explanation": "Valem iseloomustab soojusenergia kandumist ühelt kehalt teisele, kus c on aine erisoojus, m keha mass ja ΔT temperatuuri muutus"
+    },
+
+    {
+        "name": "Rõhk",
+        "formula": "p = F / S",
+        "explanation": "Rõhujõu valem, kus F on tasapinnale risti mõjuv jõud ning S on keha pindala"
+    },  
+
+    {
+        "name": "Tihedus",
+        "formula": "ρ = m / V",
+        "explanation": "Aine massi ruumalaühikus näitab tiheduse valem, kus m on aine mass ja V on aine ruumala"
+    },  
+
+    {
+        "name": "Võimsus",
+        "formula": "P = A / Δt",
+        "explanation": "Töö tegemise kiirust näitab võimsus, mille leidmiseks tuleb jaga töö A ajavahemikuga Δt"
+    }, 
+
+    {
+        "name": "Raskusjõud",
+        "formula": "→F = m · →g",
+        "explanation": "Töö tegemise kiirust näitab võimsus, mille leidmiseks tuleb jaga töö A ajavahemikuga Δt"
+    }, 
+
+    {
+        "name": "Hõõrdejõud",
+        "formula": "Fh = μ · N",
+        "explanation": "Kahe kokkupuutuva pinna vahelist vastastikmõju näitab hõõrdejõud. μ on hõõrdetegur ja N on normaalreaktsioon"
+    }, 
+
+    {
+        "name": "Kiirendus",
+        "formula": "α = Δv / Δt",
+        "explanation": "Kiiruse muutumine kindlas ajaühikus. Δv on kiiruse muutumine ja Δt on kiiruse muutumise aeg."
+    }, 
+
+    {
+        "name": "Kesktõmbekiirendus",
+        "formula": "α = v² / R",
+        "explanation": "Iseloomustab ringliikumises oleva keha kiirusvektori suuna muutuse kiirust. v on kiirus ja R on raadius"
+    }, 
+
+    {
+        "name": "Võnkeperiood",
+        "formula": "T = t / N",
+        "explanation": "Ühe täisvõnke tegemiseks kuluv aeg. t on age ja N on täisvõngete arv"
+    }, 
+
+    {
+        "name": "Võnkesagedus",
+        "formula": "f = N / t",
+        "explanation": "Näitab võngete arvu ajaühikus. N on täisvõngete arv ning t on võnkumisaeg"
+    }, 
+
+    {
+        "name": "Elektrivoolu töö",
+        "formula": "A = IUt",
+        "explanation": "Iseloomustab energia muundumist ühest liigist teise mingis vooluringis. I on voolutugevus, U on pinge ja t on aeg"
+    }, 
+
+    {
+        "name": "Elektrivoolu töö",
+        "formula": "A = I²Rt",
+        "explanation": "Iseloomustab energia muundumist ühest liigist teise mingis vooluringis. I on voolutugevus, R on takistus ja t on aeg"
+    }, 
+
+    {
+        "name": "Elektrivoolu töö",
+        "formula": "A = U²t / R",
+        "explanation": "Iseloomustab energia muundumist ühest liigist teise mingis vooluringis. U on pinge, R on takistus ja t on aeg"
+    } 
+]
+
+

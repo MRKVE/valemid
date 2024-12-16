@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Molaarne kontsentratsioon",
+        "formula": "c = n / V",
+        "explanation": "Iseloomustab lahuse kontsentratsiooni, kus n on aine moolide arv(mol) ja V on lahuse ruumala(l)"
+    },
+
+    {
+        "name": "Avogadro seadus",
+        "formula": "ρV = nRT",
+        "explanation": "Kindlal temperatuuril ja kindla rõhu all on kõikide gaaside moolruumalad võrdsed. ρ on rõhk, V on ruumala,T on temperatuur, n on ainekogus ja R on ideaalse gaasi gaasikonstant."
+    },
+
+    {
+        "name": "Saagis",
+        "formula": "(tegelik kogus / teoreetiline kogus) · 100%",
+        "explanation": "Aitab leida tegeliku saagise koguse arvestades kadusid"
+    }
+]

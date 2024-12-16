@@ -1,0 +1,287 @@
+[
+    {
+        "name": "Ruutvõrrand",
+        "formula": "ax² + bx + c = 0",
+        "explanation": "See on ruutvõrrandi algvorm."
+    },
+    {
+        "name": "Pythagorase teoreem",
+        "formula": "a² + b² = c²",
+        "explanation": "Teoreem täisnurkse kolmnurga kahe kaateti ja hüpotenuusi vahel."
+    },
+    {
+        "name": "Rööpküliku pindala",
+        "formula": "S = a · h",
+        "explanation": "Alus korrutatud alusele joonestatud kõrgusega"
+    },
+
+    {
+        "name": "Rööpküliku ümbermõõt",
+        "formula": "P = 2(a + b)",
+        "explanation": "Ümbermõõt võrdub kahe külje summa kahekordse korrutisega"
+    },
+
+    {
+        "name": "Ringi pindala",
+        "formula": "S = π · r²",
+        "explanation": "Ringi pindala võrdub pi ning raadiuse ruudu korrutisega"
+    },
+
+    {
+        "name": "Rombi pindala",
+        "formula": "S = a · h",
+        "explanation": "Rombi pindala on võrdne aluse ja kõrguse korrutisega"
+    },
+
+    {
+        "name": "Rombi pindala",
+        "formula": "S = d₁ · d₂ / 2",
+        "explanation": "Rombi pindala on võrdne poolega diagonaalide korrutisest"
+    },
+
+    {
+        "name": "Ringjoone pikkus",
+        "formula": "C = 2 · π · r",
+        "explanation": "Ringjoone pikkus võrdub kahekordse pi ja raadiuse korrutisega"
+    },
+
+    {
+        "name": "Koosinusteoreem a",
+        "formula": "a² = b² + c² - 2bc · cos α",
+        "explanation": "Kolmnurga ühe külje ruut on võrdne ülejäänud külgede ruutude summaga, millest on lahutatud samade külgede ja nendevahelise nurga koosinuse kahekordne korrutis."
+    },
+
+    {
+        "name": "Koosinusteoreem b",
+        "formula": "b² = a² + c² - 2ac · cos β",
+        "explanation": "Kolmnurga ühe külje ruut on võrdne ülejäänud külgede ruutude summaga, millest on lahutatud samade külgede ja nendevahelise nurga koosinuse kahekordne korrutis."
+    },
+
+    {
+        "name": "Koosinusteoreem c",
+        "formula": "c² = a² + b² - 2ab · cos γ",
+        "explanation": "Kolmnurga ühe külje ruut on võrdne ülejäänud külgede ruutude summaga, millest on lahutatud samade külgede ja nendevahelise nurga koosinuse kahekordne korrutis."
+    },
+
+    {
+        "name": "Viete`i teoreem",
+        "formula": "x₁ + x₂ = - p; x₁ · x₂ = q",
+        "explanation": "Ruutvõrrandi lahendite leidmine, kui ruutliikme ees on 1"
+    },
+
+    {
+        "name": "Trapetsi pindala",
+        "formula": "S = (a+b)·h / 2",
+        "explanation": "Aluste summa ja kõrguse korrutis jagatud kahega"
+    },
+
+    {
+        "name": "Korrapärase hulknurga pindala",
+        "formula": "S = Pr / 2",
+        "explanation": "Korrapärase hulknurga pindala saab leida ümbermõõdu(p) ja apoteemi(r) korrutise jagamise 2-ga."
+    },
+
+    {
+        "name": "Koonuse ruumala",
+        "formula": "v = (Sp · H) / 3",
+        "explanation": "Koonuse ruumala on võrdne põhja pindala ja kõrguse kolmekordse jagatisega."
+    },
+
+    {
+        "name": "Koonuse põhja pindala",
+        "formula": "Sp = πr²",
+        "explanation": "Koonuse põhjaks on ring, mistõttu kehtib ringi pindala valem."
+    },
+
+    {
+        "name": "Koonuse külgpindala",
+        "formula": "Sk = πrm",
+        "explanation": "Koonuse külgpindala leidmiseks tuleb pi korrutada raadiuse ja koonuse moodustajaga(m)"
+    },
+
+    {
+        "name": "Koonuse täispindala",
+        "formula": "St = Sp + Sk",
+        "explanation": "Koonuse täispindala on võrdne põhja ja külgpindala summaga."
+    },
+
+    {
+        "name": "Kuubi pindala",
+        "formula": "S = 6a²",
+        "explanation": "Ühe külje pindala korrutatud kuuega."
+    },
+
+    {
+        "name": "Kuubi ruumala",
+        "formula": "V = a³",
+        "explanation": "Kuubi külg on kuupi võetud."
+    },
+
+    {
+        "name": "Kolmnurga pindala",
+        "formula": "S = ah / 2",
+        "explanation": "Kolmnurga pindala võrdub aluse ja kõrguse korrutise kahekordse jagatisega."
+    },
+
+    {
+        "name": "Täisnurkse kolmnurga pindala",
+        "formula": "S = ab / 2",
+        "explanation": "Kolmnurga pindala võrdub kaatetite korrutise kahekordse jagatisega."
+    },
+
+    {
+        "name": "Siinus",
+        "formula": "sin α = vastaskülg / hüpotenuus ",
+        "explanation": "Täisnurkse kolmnurgas kehtiv funktioon nurga leidmiseks vastaskülje ja hüpotenuusi abil."
+    },
+
+    {
+        "name": "Koosinus",
+        "formula": "cos α = lähiskülg / hüpotenuus ",
+        "explanation": "Täisnurkse kolmnurgas kehtiv funktioon nurga leidmiseks lähiskülje ja hüpotenuusi abil."
+    },
+
+    {
+        "name": "Tangens",
+        "formula": "tan α = vastaskülg / lähiskülg ",
+        "explanation": "Täisnurkse kolmnurgas kehtiv funktioon nurga leidmiseks vastaskülje ja lähiskülje abil"
+    },
+
+    {
+        "name": "Silindri ruumala",
+        "formula": "V = Sp · H",
+        "explanation": "Silindri ruumala on võrdne põhja pindala ja kõrguse korrutisega."
+    },
+
+    {
+        "name": "Silindri põhja pindala",
+        "formula": "Sp = πr²",
+        "explanation": "Silindri põhjaks on ring, seega kehtib ringi pindala valem"
+    },
+
+    {
+        "name": "Silindri külgpindala",
+        "formula": "Sk = 2πr · H",
+        "explanation": "Külgpindala on võrdne põhja ringjoone pikkuse ja kõrguse korrutisega"
+    },
+
+    {
+        "name": "Silindri täispindala",
+        "formula": "St = 2Sp + Sk",
+        "explanation": "Silindri täispindala on võrdne kahe põhjapindala ja külgpindala summaga"
+    },
+
+    {
+        "name": "Korrapärase püstprisma ruumala",
+        "formula": "V = Sp · H",
+        "explanation": "Korrapärase püstprisma ruumala on võrdne põhjapindala ja kõrguse korrutisega"
+    },
+
+    {
+        "name": "Korrapärase püstprisma põhja pindala",
+        "formula": "Sp = Pr / 2",
+        "explanation": "Korrapärase püstprisma põhja pindala on leitav põhja ümbermõõdu ja raadiuse korrutise 2-ga jagamisega"
+    },
+
+    {
+        "name": "Korrapärase püstprisma külgpindala",
+        "formula": "Sk = P · H",
+        "explanation": "Korrapärase püstprisma külgpindala on võrdne põhja ümbermõõdu ja kõrguse korrutisega"
+    },
+
+    {
+        "name": "Korrapärase püstprisma täispindala",
+        "formula": "St = 2Sp + Sk",
+        "explanation": "Korrapärase püstprisma täispindala on võrdne kahe põhjapindala ja ühe külgpindala summaga"
+    },
+
+    {
+        "name": "Kera pindala",
+        "formula": "S = 4πR²",
+        "explanation": "Kera pindala võrdub neljakordse pi ja raadiuse ruudu korrutisega"
+    },
+
+    {
+        "name": "Kera ruumala",
+        "formula": "V = 4πR³ / 3",
+        "explanation": "Kera ruumala saab leida korrutades pi ja raadiuse kuubi 4-ga ning tulemuse 3-ga jagades"
+    },
+
+    {
+        "name": "Püströöptahuka ruumala",
+        "formula": "V = Sp · H",
+        "explanation": "Püströöptahuka ruumala on võrdne põhjapindala ja kõrguse korrutisega"
+    },
+
+    {
+        "name": "Püströöptahuka põhja pindala",
+        "formula": "Sp = ah",
+        "explanation": "Püströöptahuka põhja pindala on võrdne põhja aluse ja põhja kõrguse korrutisega"
+    },
+
+    {
+        "name": "Püströöptahuka külgpindala",
+        "formula": "Sk = P · H",
+        "explanation": "Püströöptahuka külgpindala on võrdne põhja ümbermõõdu ja rööptahuka kõrguse korrutisega"
+    },
+
+    {
+        "name": "Püströöptahuka täispindala",
+        "formula": "St = 2Sp + Sk",
+        "explanation": "Püströöptahuka täispindala on võrdne kahe põhjapindala ja ühe külgpindala summaga"
+    },
+
+    {
+        "name": "Risttahuka põhja pindala",
+        "formula": "Sp = ab",
+        "explanation": "Risttahuka põhjapindala on võrdne põhja kahe külje korrutisega"
+    },
+
+    {
+        "name": "Risttahuka külgpindala",
+        "formula": "Sk = ab",
+        "explanation": "Risttahuka külgpindala on võrdne külgtahu kahe külje korrutisega"
+    },
+
+    {
+        "name": "Risttahuka täispindala",
+        "formula": "St = 2(ab + bc + ac)",
+        "explanation": "Risttahuka täispindala on võrdne kõikide tahkude kahekordse pindala summaga"
+    },
+
+    {
+        "name": "Ristküliku ümbermoot",
+        "formula": "P = 2(a + b)",
+        "explanation": "Ümbermõõt on võrdne külgede summa kahekordse korrutisega"
+    },
+
+    {
+        "name": "Ristküliku pindala",
+        "formula": "S = ab",
+        "explanation": "Pindala on võrdne külgede korrutisega"
+    },
+
+    {
+        "name": "Ruudu pindala",
+        "formula": "S = a²",
+        "explanation": "Pindala on võrdne külje ruuduga"
+    },
+
+    {
+        "name": "Ruudu ümbermõõt",
+        "formula": "P = 4a",
+        "explanation": "Ümbermõõt on võrdne külje neljakordse korrutisega"
+    },
+
+    {
+        "name": "Ruudu diagonaal",
+        "formula": "d = a√2",
+        "explanation": "Ruudu diagonaali saab leida korrutades ruutjuur kahest küljega"
+    },
+
+    {
+        "name": "Siinusteoreem",
+        "formula": "a / sin α = b / sin β = c / sin γ",
+        "explanation": "Seos kolmnurga külgede ja nurkade vahel"
+    }
+]
